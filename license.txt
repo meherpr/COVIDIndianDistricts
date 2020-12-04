@@ -1,0 +1,11 @@
+Copyright (c) 2020 Meher K Prakash
+
+Cite as: Santosh Ansumali, Aloke Kumar, Samarth Agrawal, H J Shashank, Meher K Prakash, A steady trickle-down from metro districts and improving epidemic-parameters characterize the increasing COVID-19 cases in India, medRxiv (2020)
+doi: https://doi.org/10.1101/2020.09.28.20202978
+
+Subject to Creative Commons License CC By-NC-ND-4.0. More documentation available at:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Bullsye.m script used in the analysis was obtained from Matlab Central: 
+Daniel Ennis (2020). Bullseye Polar Data Plot (https://www.mathworks.com/matlabcentral/fileexchange/16458-bullseye-polar-data-plot), MATLAB Central File Exchange. Retrieved September 16, 2020.
